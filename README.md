@@ -1,4 +1,9 @@
 # k-step-attackability
-This is a supplementary file on paper "Multi-step Sensor Attackability in Cyber-Physical Systems".
+This is the supplementary file for the paper "Multi-step Sensor Attackability in Cyber-Physical Systems."
 
-We provide a file entitled "Supplementary material on 'Multi-step Sensor Attackability in Cyber-Physical Systems'" to supplement the paper. In particular, Section I in the file lists key notations. Section II describes main algorithms. Proofs of theorems and proposations are provided in Section III. Section IV contains supplementary contents on examples.
+The file, titled "Supplementary Material on 'Multi-step Sensor Attackability in Cyber-Physical Systems,'" provides additional content to support the paper. Specifically:
+
+Section I lists key notations.
+Section II describes the main algorithms.
+Section III provides proofs of the theorems and propositions.
+Section IV contains supplementary content related to the examples.
